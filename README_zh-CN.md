@@ -1,31 +1,14 @@
-<div align="right">
-  <a title="en" href="README.md"><img src="https://img.shields.io/badge/-English-545759?style=for-the-badge" alt="english"></a>
-  <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-A31F34?style=for-the-badge" alt="简体中文">
-  <a title="zh-TW" href="README_zh-TW.md"><img src="https://img.shields.io/badge/-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="繁体中文"></a>
-</div>
-
-<a href="https://redefine.ohevan.com"><img align="center" src="https://user-images.githubusercontent.com/68590232/226141917-68124e8f-fde0-4edd-b86d-c62932ec369a.png"  alt="Redefine"></a>
 
 
-# hexo-theme-redefine
 
-"Redefine" 是一款简洁、快速、纯粹的 Hexo 主题，其简约之美遥非平凡，让人领略到设计的力量。本主题不仅包含诸多实用丰富的功能，而且赋予了精致而出色的设计理念。
+# Wall of Caution
 
-本主题源自 [hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) 的早期版本，进一步进行了精心打磨和扩展。在保留了原主题的精炼基础上，我们优化了整体样式，引入了丰富的写作模块，并增添了多种插件支持。同时，大幅提高了自定义的灵活度，旨在让您能够更加便捷、顺畅地运用本主题，打造出独具匠心的个人博客。
+As Russian influence takes a chokehold over many countries on the continent, Kenya needs to be cognizant of the people within its borders who have real but quiet ties with the war-making nation…with a view to the future peace, prosperity, and independence of the East African nation.
 
-<p align="center">
-    <a href="https://www.npmjs.com/package/hexo-theme-redefine">
-        <img src="https://img.shields.io/npm/v/hexo-theme-redefine?color=F38181&amp;label=version&amp;logo=npm&amp;logoColor=F38181&amp;style=for-the-badge" referrerpolicy="no-referrer" alt="NPM version" />
-    </a>
-    <a href="https://www.npmjs.com/package/hexo-theme-redefine">
-        <img src="https://img.shields.io/npm/dm/hexo-theme-redefine?color=FCE38A&amp;logo=npm&amp;logoColor=FCE38A&amp;style=for-the-badge" referrerpolicy="no-referrer" alt="npm downloads" />
-    </a>
-    <a href="https://www.npmjs.com/package/hexo-theme-redefine">
-        <img src="https://img.shields.io/npm/dt/hexo-theme-redefine?color=95E1D3&amp;label=total&amp;logo=npm&amp;logoColor=95E1D3&amp;style=for-the-badge" referrerpolicy="no-referrer" alt="npm-total" />
-    </a>
-    <a href="https://hexo.io"><img src="https://img.shields.io/badge/hexo-%3E=5.0.0-8caaee?style=for-the-badge&amp;logo=hexo&amp;logoColor=8caaee" referrerpolicy="no-referrer" alt="Required Hexo version" /></a>
-    <img src="https://img.shields.io/badge/node-%3E=12.0-a6d189?style=for-the-badge&amp;logo=node.js&amp;logoColor=a6d189" referrerpolicy="no-referrer" alt="NodeJS Version" />
-</p>
+<div class="flourish-embed flourish-cards" data-src="visualisation/17466769?50186"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+   
 
 
 <picture>
